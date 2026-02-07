@@ -1,5 +1,5 @@
 Evidence ID,Evidence Title,Source,Date Captured,Owner,Linked File Name,Related ISO Requirement (Clause/Annex A),Notes
-EV-001,,,,,,, 
-EV-002,,,,,,, 
-EV-003,,,,,,, 
-EV-004,,,,,,, 
+EV-001,GitHub repository created and available,GitHub,2026-02-07,Badr Karim,EV-001_GitHub_Repo_Created_2026-02-07.png,Annex A 8.32 (Change management),Repo created and pushed to GitHub
+EV-002,Branch protection rule enforced on main,GitHub,2026-02-07,Badr Karim,EV-002_GitHub_Branch_Protection_2026-02-07.png,Annex A 8.32 (Change management),PR required + 1 approval before merge
+EV-003,Dependabot alerts/security updates enabled,GitHub,2026-02-07,Badr Karim,EV-003_GitHub_Dependabot_Enabled_2026-02-07.png,Annex A 8.8 (Management of technical vulnerabilities),Automated dependency vulnerability alerts enabled
+EV-004,Pull request workflow with review evidence,GitHub,2026-02-07,Badr Karim,EV-004_GitHub_PR_Approval_2026-02-07.png,Annex A 8.32 (Change management),PR created and reviewed/approved evidence captured
