@@ -7,7 +7,7 @@ This repository is a **hands-on ISMS portfolio** for a fictional B2B SaaS (“Cl
 - Real operational controls documented with records:
   **Incident Response**, **Backup/Restore testing**, **Supplier assessment**, **Vulnerability management**, **Repo access review**, **Security awareness training**
 
-## 10-minute review path (what a hiring manager should open)
+## 10-minute review path 
 1) **RECRUITER-ONE-PAGER.md** — fast summary of what I built  
 2) **CASE-STUDY.md** — story: baseline audit → findings → CAPA → follow-up verification  
 3) **PORTFOLIO-MAP.md** — ISO clauses → exact files + evidence  
