@@ -36,16 +36,3 @@ Open in this order:
 - **Evidence discipline:** every implemented item maps to an evidence ID (EV-###)
 
 ---
-
-## 10-minute reviewer path 
-If you’re short on time, open in this order:
-
-1. `RECRUITER-ONE-PAGER.md` — fast summary (what was built + what it proves)  
-2. `CASE-STUDY.md` — baseline audit → findings → CAPA → follow-up verification  
-3. `PORTFOLIO-MAP.md` — ISO clauses → exact artifacts + evidence references  
-4. `04_Evidence/EV-INDEX_Evidence_Index_v0.1_2026-02-07.csv` — master evidence list (**EV-001..EV-015**)  
-5. `03_Audit_Pack/AUD-005_Audit_Report_Findings_v0.1_2026-02-07.md` — audit report & findings  
-6. `03_Audit_Pack/AUD-008_Followup_Audit_Report_v0.1_2026-02-07.md` — follow-up verification (closure proof)  
-7. `02_Registers/ISMS-005_SoA_v0.1_2026-02-07.csv` — Statement of Applicability (controls ↔ evidence)
-
----
