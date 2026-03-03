@@ -1,6 +1,10 @@
-ISO/IEC 27001 ISMS / GRC Portfolio (Audit-Grade) — CloudFin SaaS Scenario  
-This repository contains an audit-grade ISO/IEC 27001 Information Security Management System (ISMS) portfolio built for a fictional B2B SaaS company (“CloudFin Analytics”).  
-It is designed to demonstrate GRC / ISMS / Internal Audit capability through end-to-end traceability and verifiable evidence (EV-001 → EV-015).
+# ISO/IEC 27001 ISMS Portfolio — Audit-Grade (CloudFin SaaS)
+
+**Author/Owner:** Badr Karim — Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Privacy-Driven TPRM  
+**Portfolio type:** ISO/IEC 27001 ISMS documentation + internal audit execution (audit-style evidence discipline)
+
+This repository is an **audit-grade ISO/IEC 27001 ISMS portfolio** built as a realistic SaaS scenario (“CloudFin Analytics”) to demonstrate **US workplace-style GRC and internal audit execution**.  
+It is structured like an assurance engagement with **end-to-end traceability** from risk decisions to verifiable proof (**EV-001 → EV-015**) and audit outcomes.
 
 ## Why this portfolio is “audit-grade”
 This repo is structured like a real assurance engagement and supports full traceability:
@@ -27,3 +31,6 @@ Open in this order:
 - Corrective action lifecycle: CAPA procedure, tracker, closure evidence, and verification  
 - Operational readiness documentation: incident response plan & tabletop, backup/restore testing, supplier assessment, vulnerability workflow, access review, awareness training  
 - Evidence discipline: every implemented item maps to an evidence ID (EV-###)
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/badrkarim/
