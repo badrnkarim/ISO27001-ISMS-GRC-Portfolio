@@ -1,6 +1,6 @@
 # ISO/IEC 27001 ISMS Portfolio — Audit-Grade (CloudFin SaaS)
 
-**Author/Owner:** Badr Karim — Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Privacy-Driven TPRM  
+**Author/Owner:** Badr Karim — Cybersecurity GRC Intern | Security Assurance | Risk-Based Controls | Audit-evedince  
 **Portfolio type:** ISO/IEC 27001 ISMS documentation + internal audit execution (audit-style evidence discipline)
 
 This repository is an **audit-grade ISO/IEC 27001 ISMS portfolio** built as a realistic SaaS scenario (“CloudFin Analytics”) to demonstrate **US workplace-style GRC and internal audit execution**.  
